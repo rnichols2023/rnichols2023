@@ -1,10 +1,21 @@
 ## Hi there 👋
 
+I’m Rachel Nichols — a data scientist in training graduating at the end of June with hands‑on experience in Python, R, SQL, Machine Learning, and Data Visualization. I enjoy turning messy, real‑world data into clear insights that support meaningful decisions.
 
-- 🔭 I’m currently working on my Masters in Data Science.
-- 🌱 I’m currently learning basic statistical analysis using R.
-- 👍 I'm proficient in Python. 
-- 💬 Ask me about working with large amounts of data.
-- 📫 How to reach me: rnichols2023@gmail.com
-- ⚡ Fun fact: I lived in Hawaii for four and a half years before I married my husband and moved to Texas.
-- 🏢 My portfolio can be found in these Repositories: [Python](https://github.com/rnichols2023/Python/tree/main) and [R](https://github.com/rnichols2023/R/tree/main).
+## 🧠 About Me
+
+🎓 Master’s in Data Science (in progress)
+
+📊 Skilled in data wrangling, statistical modeling, supervised & unsupervised ML, and visualization
+
+🐍 Proficient in Python (pandas, NumPy, scikit‑learn, matplotlib, seaborn)
+
+📈 Experienced with R for statistical analysis and reporting
+
+🗄️ Comfortable writing and optimizing SQL queries
+
+💬 Ask me about working with large datasets, building interpretable models, or cleaning chaotic data
+
+🌺 Fun fact: I lived in Hawaii for four and a half years before moving to Texas
+
+📫 Reach me at: rnichols2023@gmail.com
